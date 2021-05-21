@@ -19,7 +19,7 @@
 
 ## GitHub Stats
 
-[![Meagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Meagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13&theme=vue-dark)](https://github.com/meagan13/github-readme-stats)
 
 
 
