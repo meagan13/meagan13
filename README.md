@@ -3,7 +3,7 @@
 ## About Me:
 :diamond_shape_with_a_dot_inside:	Studying to become a software engineer after a ten-year career in higher education. 
 <br>
-:diamond_shape_with_a_dot_inside:	Passionate about creativity, mental wellness, and community development. 
+:diamond_shape_with_a_dot_inside:	Passionate about software development, creativity, mental wellness, and community development. 
 <br>
 :diamond_shape_with_a_dot_inside:	Eager to join the tech sector to work toward great equity and access.
 
@@ -21,6 +21,4 @@
 
 [![Meagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13&theme=vue-dark)
 
-> “I would like to be remembered as someone who was not afraid to do what she wanted to do, and as someone who took risks along the way in order to achieve her goals.” - Sally Ride, Physicist, NASA Communicator and Astronaut 
-> 
 
