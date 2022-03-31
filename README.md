@@ -19,6 +19,6 @@
 
 ## GitHub Stats
 
-[![Meagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13&theme=vue-dark)
+<!-- [![Meagan's GitHub stats](https://github-readme-stats.vercel.app/api?username=meagan13&theme=vue-dark) -->
 
 
